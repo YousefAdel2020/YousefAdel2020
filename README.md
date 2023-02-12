@@ -1,9 +1,11 @@
-<h1 align="left">Hey 👋,  I'm Yousef</h1>
+# Hey 👋, I'm [Yousef](https://www.linkedin.com/in/yousef-adel-96083b1a5/) 
 
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YousefAdel2020.YousefAdel2020&left_text=Profile Views"  />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=YousefAdel2020&label=Profile%20views&color=0e75b6&style=flat" alt="yousefadel2020" />
+  <img src="https://img.shields.io/github/followers/YousefAdel2020?label=Followers" alt="YousefAdel2020" /></p>
+  
 </div>
 
 ###
@@ -52,7 +54,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=YousefAdel2020" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=YousefAdel2020" height="150" alt="languages graph"  />
 </div>
 
 ###
