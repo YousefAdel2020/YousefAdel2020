@@ -54,7 +54,7 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=YousefAdel2020&show_icons=true&theme=radical"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=YousefAdel2020&show_icons=true&locale=en" alt="YousefAdel2020" />
 </p>
 
 
