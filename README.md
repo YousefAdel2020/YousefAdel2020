@@ -28,7 +28,13 @@
 
 ###
 
-<p align="left">📚 I Graduated from the Faculty of Computers and Information, Computer Science department. I was one of the top two scorers of my batch and was awarded a Very Good with Honours degree.<br>✨  I am a backend developer (node.js, Expressjs, MongoDB) and I am improving my skills by making more projects and learning more about technology.<br>🎯 I am also a competitive programmer who participated in KafrelsheikhCPC 2021 and I am still trying to improve my skills in problem-solving, algorithm, and datastructure.</p>
+<p align="left">A software engineer who is eager to learn and adapt to new technologies who Graduated from the Faculty of Computers and Information, Computer Science department. I was one of the top two scorers of my batch and was awarded a Very Good with Honours degree.<br/>
+
+I have experience in full-stack development, in which I made many projects and solved issues using different technologies with different clients from different countries<br/>
+
+I am also trained at ITI 9-month professional training track Open Source. where we learned many technologies and collaborated with teams on many projects<br/>
+
+Furthermore, I am a competitive programmer who participated in KafrelsheikhCPC 2022 and I am continuously working to improve my skills in problem-solving, algorithms, and data structures..</p>
 
 ###
 
@@ -41,7 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
